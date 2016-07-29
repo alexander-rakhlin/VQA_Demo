@@ -1,4 +1,4 @@
-#VQA Demo
+#VQA Demo.
 
 This is a simple Demo of Visual Question answering which uses pretrained models (see models/CNN and models/VQA) to answer a given question about the given image.
 
